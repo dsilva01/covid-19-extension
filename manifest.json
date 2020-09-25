@@ -1,0 +1,11 @@
+{
+  "manifest_version": 2,
+  "version": "0.0.1",
+  "name": "Covid-19",
+  "description": "Extension of the covid-19",
+  "author": "Desiderio Silva",
+  "browser_action": {
+    "default_title": "covid-19",
+    "default_popup": "index.html"
+  }
+}
